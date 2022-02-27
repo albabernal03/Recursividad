@@ -8,6 +8,11 @@ class tabl@:
     self.i= i
     self.j= j
 
+    if self.i > self.j:
+      return'No hay ningún valor en la posición selccionada')
+    else:
+      
+
   
     #definimos columnas y filas
    
