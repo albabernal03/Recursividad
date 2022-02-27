@@ -25,6 +25,7 @@ class convertidor:
   def __inti__(self,p):
     self.p = p
     self.x = x
+    self.remplazadores= remplazadores
   def convertir_a_mayúcula (self):
     if p.islower(): #Esto lo usamos para comprobar si esta en minúscula
       return p.upper()
@@ -38,6 +39,16 @@ class convertidor:
     print(self.x)
 
   def eliminador_acentos(self):
+    for a, b in remplazadores:
+        p = p.replace(a, b).replace(a.upper(), b.upper())
+    return p
+
+resultado2 = convertidor(x, remplazadores, p)
+print(resultado2.convertir_a_mayuscula())
+print(resultado2.detector_caracteres_no_alfanuméricos())
+print(resultado2.eliminador_acentos())
+
+
     
   
 
