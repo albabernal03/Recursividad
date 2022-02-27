@@ -19,3 +19,20 @@ En esta tarea hemos resuelto una serie de ejercicios aplicando el método de la 
 
 
 ***
+
+
+## Ejercico 6:
+
+
+***
+
+
+## Ejercicio 7:
+
+
+***
+
+## Ejercicio 8:
+
+
+***
