@@ -11,7 +11,7 @@ class tablas:
     self.n= n
     
   def busqueda_numero (self):
-
+    
     if self.i > self.j:
       return'No hay ningún valor en la posición seleccionada'
       
@@ -24,6 +24,8 @@ class tablas:
         return busqueda_numero (self,self.m -1)
       else:
         return busqueda_numero (self, self.m + 1)
+        
+  return busqueda_numero
 
   
         
