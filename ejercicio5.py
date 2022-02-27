@@ -4,7 +4,7 @@ i = 0
 j = len(tabla)
 m = (i+j)/2
 
-class tabl@:
+class tablas:
   def  __init__(self,tabla,n,i,j):
     self.i= i
     self.j= j
