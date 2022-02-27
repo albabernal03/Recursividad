@@ -12,3 +12,10 @@ En esta tarea hemos resuelto una serie de ejercicios aplicando el método de la 
 ***
 
 ## Índice
+
+1.
+2.
+3.
+
+
+***
