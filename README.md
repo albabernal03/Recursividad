@@ -52,7 +52,9 @@ class tablas:
       else:
         return busqueda_numero (self, self.m + 1)
         
-  return busqueda_numero
+  
+  resultado = tablas(tabla,n,j,i)
+  print(resultado.busqueda_numero())
 ```
 ***
 
