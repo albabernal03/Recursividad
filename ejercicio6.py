@@ -14,6 +14,13 @@ print(resultado.palabra_palindroma)
 
 p= palabra
 x = ''
+remplazadores = (
+        ("á", "a"),
+        ("é", "e"),
+        ("í", "i"),
+        ("ó", "o"),
+        ("ú", "u"),
+    )
 class convertidor:
   def __inti__(self,p):
     self.p = p
@@ -30,7 +37,8 @@ class convertidor:
 
     print(self.x)
 
-  
+  def eliminador_acentos(self):
+    
   
 
  
