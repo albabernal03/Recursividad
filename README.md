@@ -13,26 +13,24 @@ En esta tarea hemos resuelto una serie de ejercicios aplicando el método de la 
 
 ## Índice
 
-1.
-2.
-3.
-
-
-***
-
-
-## Ejercico 6:
-
+1. [Ejercicio 5](#id1)
+2. [Ejercicio 6](#id2)
+3. [Ejercicio 7](#id3)
 
 ***
 
 
-## Ejercicio 7:
+## Ejercico 5:<a name="id1"></a>
+
+***
+
+
+## Ejercicio 6:<a name="id2"></a>
 
 
 ***
 
-## Ejercicio 8:
+## Ejercicio 7:<a name="id3"></a>
 
 
 ***
