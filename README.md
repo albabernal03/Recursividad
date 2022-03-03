@@ -119,7 +119,7 @@ print(resultado2.eliminador_acentos())
 ## Ejercicio 7:<a name="id3"></a>
 
 ```
- def reorganizar_colores(self):
+  def reorganizar_colores(self):
     if len(self.bandera) > 0:
       color = self.bandera.pop(0)
 
@@ -138,6 +138,7 @@ print(resultado2.eliminador_acentos())
 
 resultado=organizacion(bandera,rojo,verde,azul)
 print(resultado.reorganizar_colores)
+    
     
 ```
 
