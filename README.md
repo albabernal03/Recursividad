@@ -119,6 +119,23 @@ print(resultado2.eliminador_acentos())
 ## Ejercicio 7:<a name="id3"></a>
 
 ```
+#R= ROJO
+#V=VERDE
+#A=AZUL
+bandera = ["R","A","A","R","V","A","A","R","A","R","R","V","R","R","A","V","V"] #El orden ya viene dado por el ejercicio
+rojo = []
+verde=[]
+azul=[]
+
+class organizacion:
+  def __init__(self,bandera,rojo,verde,azul):
+    self.bandera=bandera
+    self.rojo=rojo
+    self.verde=verde
+    self.azul=azul
+   def reorganizar_colores(self):
+    if len (self.bandera) > 0:
+      color = self.bandera.pop(0)
   def reorganizar_colores(self):
     if len(self.bandera) > 0:
       color = self.bandera.pop(0)
